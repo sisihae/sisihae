@@ -10,3 +10,4 @@
 - ⚡ Fun fact: ...
 
 ![Sihyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sisihae&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sisihae&layout=compact&theme=dracula)
