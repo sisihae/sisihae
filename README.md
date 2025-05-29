@@ -8,5 +8,3 @@
 - 📫 How to reach me: sihyunkim@snu.ac.kr
 - 😄 Pronouns: ...
 - ⚡ Fun fact: i'm a super introvert
-
-![Sihyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=sisihae&show_icons=true&theme=dracula)
