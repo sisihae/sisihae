@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Sihyeon Kim  
+# 🐑 Hi, I'm Sihyeon Kim  
 
 I'm an aspiring **AI & Product Engineer** passionate about connecting data, users, and design.  
 I love turning abstract ideas into real, usable products — from backend logic to user-facing experience.  
 
-### 🧩 What I love to build
-- 🧠 AI-driven products that understand users better  
-- 🌐 Web services that combine solid backend and clean UI  
-- 💡 Tools that enhance everyday interactions through technology  
+### 🚀 What I love to build
+- AI-driven products that understand users better  
+- Web services that combine solid backend and clean UI  
+- Tools that enhance everyday interactions through technology  
 
 ### 🚀 Featured Projects
 - **Bready for Suwon** — Personalized bakery recommendation using RAG and review embeddings  
@@ -42,5 +42,4 @@ I love turning abstract ideas into real, usable products — from backend logic 
 
 ### 📬 Contact
 📧 sihyunkim@snu.ac.kr  
-🌐 [Portfolio](https://sihyeonkim.notion.site/Portfolio-2b957cc4ed6f8030b683eddaff19e62c)  
-💻 [GitHub](https://github.com/sisihae)
+📑 [Portfolio](https://sihyeonkim.notion.site/Portfolio-2b957cc4ed6f8030b683eddaff19e62c)  
