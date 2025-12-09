@@ -1,7 +1,7 @@
-# 🐑 Hi, I'm Sihyeon Kim  
+# 🐑 Hi, I'm Sihyun. 
 
 I'm an aspiring **AI & Product Engineer** passionate about connecting data, users, and design.  
-I love turning abstract ideas into real, usable products — from backend logic to user-facing experience.  
+I love turning abstract ideas into real, usable products, from backend logic to user-facing experience.  
 
 ### 🤍 What I love to build
 - AI-driven products that understand users better  
@@ -9,9 +9,9 @@ I love turning abstract ideas into real, usable products — from backend logic 
 - Tools that enhance everyday interactions through technology  
 
 ### 🪽 Featured Projects
-- **Bready for Suwon** — Personalized bakery recommendation using RAG and review embeddings  
-- **CareWise** — Laundry care label recognition + rule-based management recommendation (LIKELION SNU Hackathon)  
-- **Nospoil** — RAG-based spoiler-blocking wiki (ChannelTalk Hackathon)
+- **Bready for Suwon**: Personalized bakery recommendation using RAG and review embeddings  
+- **CareWise**: Laundry care label recognition + rule-based management recommendation (LIKELION SNU Hackathon)  
+- **Nospoil**: RAG-based spoiler-blocking wiki (ChannelTalk Hackathon)
 
 *(See full portfolio → [Notion](https://sihyeonkim.notion.site/Portfolio-2b957cc4ed6f8030b683eddaff19e62c))*
 
