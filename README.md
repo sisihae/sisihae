@@ -1,12 +1,12 @@
-# 🐑 Hi, I'm Sihyun. 
+## 🐑 Hi, I'm Sihyun. 
 
-I'm an aspiring **AI & Product Engineer** passionate about connecting data, users, and design.  
+I'm an aspiring AI & Product Engineer passionate about connecting data, users, and design.  
 I love turning abstract ideas into real, usable products, from backend logic to user-facing experience.  
 
 ### 🤍 What I love to build
 - AI-driven products that understand users better  
-- Web services that combine solid backend and clean UI  
-- Tools that enhance everyday interactions through technology  
+- web services that combine solid backend and clean UI  
+- tools that enhance everyday interactions through technology  
 
 ### 🛠️ Tech Stack  
 
@@ -29,9 +29,9 @@ I love turning abstract ideas into real, usable products, from backend logic to 
 `Docker` `Git / GitHub` `Figma`  
 
 ### 💭 Currently
-- Building user-centered web services at **LIKELION SNU**  
-- Learning Android development at **Wafflestudio**  
-- Exploring **AI × UX** for intelligent recommendation and search systems  
+- building user-centered web services at LIKELION SNU 
+- learning Android development at Wafflestudio 
+- exploring AI × UX for intelligent recommendation and search systems  
 
 ### ✉️ Contact
 📧 sihyunkim@snu.ac.kr  
