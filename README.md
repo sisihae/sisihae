@@ -34,5 +34,6 @@ I love turning abstract ideas into real, usable products, from backend logic to 
 - exploring AI × UX for intelligent recommendation and search systems  
 
 ### ✉️ Contact
-📧 sihyunkim@snu.ac.kr  
-📑 [Portfolio](https://sihyeonkim.notion.site/Portfolio-2b957cc4ed6f8030b683eddaff19e62c)  
+email: sihyunkim@snu.ac.kr  
+portfolio: https://sihyeonkim.notion.site/Portfolio-2b957cc4ed6f8030b683eddaff19e62c 
+linkedin: http://www.linkedin.com/in/sihyun-kim-78a978370
