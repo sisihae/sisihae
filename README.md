@@ -30,7 +30,7 @@ I love turning abstract ideas into real, usable products, from backend logic to 
 
 ### 💭 Currently
 - exploring AI × UX for intelligent recommendation and search systems  
-- working as a software engineer intern in @OrdinaryMagicDev
+- working as a software engineer intern @OrdinaryMagic
 
 ### ✉️ Contact
 - email: sihyunkim@snu.ac.kr  
