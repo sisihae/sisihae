@@ -29,9 +29,8 @@ I love turning abstract ideas into real, usable products, from backend logic to 
 `Docker` `Git / GitHub` `Figma`  
 
 ### 💭 Currently
-- building user-centered web services at LIKELION SNU 
-- learning Android development at Wafflestudio 
 - exploring AI × UX for intelligent recommendation and search systems  
+- working as a software engineer intern in @OrdinaryMagicDev
 
 ### ✉️ Contact
 - email: sihyunkim@snu.ac.kr  
