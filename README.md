@@ -1,7 +1,7 @@
 ## 🐑 Hi, I'm Sihyun. 
 
 I'm an aspiring AI & Product Engineer passionate about connecting data, users, and design.  
-I love turning abstract ideas into real, usable products, from backend logic to user-facing experience.  
+I love turning abstract ideas into real, usable products.  
 
 ### 🤍 What I love to build
 - AI-driven products that understand users better  
