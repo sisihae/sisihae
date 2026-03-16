@@ -2,7 +2,7 @@
 
 I am a passionate engineer interested in structuring real-world problems and solving them through systems. 
 
-### 🤍 What Inspires Me
+### 💡 What Inspires Me
 My work sits at the intersection of software engineering, AI applications, and product thinking.
 
 I’m especially excited about:
@@ -15,6 +15,6 @@ I’m especially excited about:
 - exploring AI × UX for intelligent recommendation and search systems  
 - working as a software engineer intern @ Ordinary Magic Corp.
 
-### ⛓️‍💥 Find Me Elsewhere
+### 🤍 Find Me Elsewhere
 - [Blog](https://sisihae.tistory.com/)
 - [LinkedIn](http://www.linkedin.com/in/sihyun-kim-78a978370)
