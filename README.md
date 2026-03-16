@@ -1,33 +1,21 @@
 ## 🐑 Hi, I'm Sihyun. 
 
-I'm an aspiring AI & Product Engineer passionate about connecting data, users, and design.  
-I love turning abstract ideas into real, usable products.  
+I am an engineer interested in structuring real-world problems and solving them through systems. 
 
 ### 🤍 What I love to build
-- AI-driven products that understand users better  
-- web services that combine solid backend and clean UI  
-- tools that enhance everyday interactions through technology  
+My work sits at the intersection of software engineering, AI applications, and product thinking.
 
-### 🛠️ Tech Stack  
+I am particularly interested in problems such as:
 
-**Languages**  
-`Python` `JavaScript` `Kotlin` `C/C++`  
-
-**Frontend**  
-`React` `HTML` `CSS`  
-
-**Backend**  
-`Django` `FastAPI`  
-
-**Mobile**  
-`Android (MVVM, Retrofit)`  
-
-**Database**  
-`PostgreSQL` `MySQL` `Weaviate`  
-
-**Tools & Infra**  
-`Docker` `Git / GitHub` `Figma`  
+- Designing AI-powered workflows that automate repetitive or complex tasks  
+- Building LLM-based applications using retrieval and vector search  
+- Structuring real-world tasks into agent-based systems
+- Developing full-stack systems that connect AI models with real users  
 
 ### 💭 Currently
 - exploring AI × UX for intelligent recommendation and search systems  
 - working as a software engineer intern @OrdinaryMagic
+
+### ⛓️‍💥 Links
+- [Blog](https://sisihae.tistory.com/)
+- [LinkedIn](http://www.linkedin.com/in/sihyun-kim-78a978370)
