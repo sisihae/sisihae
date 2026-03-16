@@ -4,6 +4,7 @@ I am a passionate engineer interested in structuring real-world problems and sol
 
 ### 🤍 What Inspires Me
 My work sits at the intersection of software engineering, AI applications, and product thinking.
+
 I’m especially excited about:
 - Designing AI-powered workflows that automate repetitive or complex tasks  
 - Building LLM-based applications using retrieval and vector search  
