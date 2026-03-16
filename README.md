@@ -13,7 +13,7 @@ I’m especially excited about:
 
 ### 💭 Currently
 - exploring AI × UX for intelligent recommendation and search systems  
-- working as a software engineer intern @OrdinaryMagic
+- working as a software engineer intern @ Ordinary Magic Corp.
 
 ### ⛓️‍💥 Find Me Elsewhere
 - [Blog](https://sisihae.tistory.com/)
